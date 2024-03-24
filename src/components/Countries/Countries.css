@@ -1,0 +1,9 @@
+.cardContainer{
+    display: grid;
+    grid-template-columns: repeat(3, 1rf); /* Display 3 columns in each row */
+    grid-gap: 50px; /* Gap between cards*/
+    margin: auto;
+  }
+  .headLine{
+    text-align: center;
+  }
