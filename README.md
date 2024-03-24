@@ -1,5 +1,5 @@
 # REST Countries - JSONPlaceholder
-My Project [Live link]([http://localhost:3000](https://66007c48ab32b21b618e1664--stirring-marzipan-9f8cd4.netlify.app/))
+My Project [Live link](https://66007c48ab32b21b618e1664--stirring-marzipan-9f8cd4.netlify.app/)
 
 
 ## Getting Started with Create React App
